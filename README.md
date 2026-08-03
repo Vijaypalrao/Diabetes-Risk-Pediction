@@ -1,6 +1,7 @@
 # Diabetes-Risk-Pediction
 End-to-end Machine Learning project for Diabetes Risk Prediction with Streamlit deployment
 #  Diabetes Risk Prediction using Machine Learning
+website link: https://diabetes-risk-pediction-1405.streamlit.app/
 
 ## Overview
 
